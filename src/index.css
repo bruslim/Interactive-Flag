@@ -49,6 +49,10 @@ ol, ul {
   margin-left: 20px;
 }
 
-#fill {
-  fill: blue;
+use.star11 {
+  fill: yellow;
+}
+
+#star7, #star10, #star0 {
+  fill: yellow;
 }
