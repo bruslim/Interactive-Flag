@@ -1,4 +1,4 @@
-# fun-with-flags
+# Interactive Flag
 
 Interactive web app for learning about the US Flag. 
 
